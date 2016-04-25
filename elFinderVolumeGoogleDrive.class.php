@@ -3,7 +3,7 @@ elFinder::$netDrivers['googledrive'] = 'GoogleDrive';
 
 /**
  * Simple elFinder driver for GoogleDrive
- *
+ * stable version google-api-php-client-1.1.7
  * @author Dmitry (dio) Levashov
  * @author Cem (discofever)
  * @author Raja Sharma - updating for GoogleDrive
