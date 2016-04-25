@@ -5,7 +5,7 @@ elFinder Connector Configuration
 ================================
 
 /**
-•# Google Drive volume driver need "google-api-php-client" package"
+•# Google Drive volume driver need "google-api-php-client 1.1.7" package"
 •* google-api-php-client: https://github.com/google/google-api-php-client/releases 
 •* copy directory "google-api-php-client" and paste in elFinder php directory
 •* Google Drive developer console: https://console.developers.google.com 
